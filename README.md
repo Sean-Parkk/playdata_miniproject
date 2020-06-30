@@ -6,3 +6,4 @@
   * Sean-Parkk
 - - -
 # 프로젝트 목적
+![image](https://vignette.wikia.nocookie.net/batman/images/f/f0/Bane_TDKR3.jpg/revision/latest?cb=20120511112335)
